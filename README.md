@@ -95,3 +95,6 @@ PATH=$PATH:/home/$USER/ ///некоторая папка, в которой на
 ```
 [![SomePicture](https://avatars2.githubusercontent.com/u/11632545?v=3&s=200)](https://4pda.ru/tag/linux/)
 # [LPIC 105.2](https://cloudappstorage.github.io/Linuxv2/)
+
+©Copyright Cloud App Storage
+Информация, предоставленная на данной странице не разрешена к распространению без ведома создателя.
